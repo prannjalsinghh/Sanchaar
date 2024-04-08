@@ -1,0 +1,20 @@
+.navigation{
+    height:50px;
+    padding-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    z-index:100;
+    background: transparent;
+    width:91%;
+    max-width: 100%;
+    color:white;
+    margin: auto;
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:0.5rem;
+}
